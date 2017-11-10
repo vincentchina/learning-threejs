@@ -2,7 +2,7 @@
 ================
 
 
-##  opengl es Vs Webgl Vs three.js
+##  Opengl es Vs Webgl Vs three.js
 
 ## 3D坐标系
 
