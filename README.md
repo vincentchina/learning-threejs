@@ -14,7 +14,8 @@
 ### 几何体
 ### 材质
 ### 网格
-### 动画
+### 动画 （ex: 01-04-materials-light-animation.html）
 ### 纹理
+### 控制器
 
 ## 资源： https://threejs.org/
