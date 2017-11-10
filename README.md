@@ -22,5 +22,6 @@
     普通动画 （ex: 01-04-materials-light-animation.html）
     控件
 ### 纹理
+    (es: demo/geo1.html)
 
 ## 资源： https://threejs.org/
