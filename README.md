@@ -16,7 +16,7 @@
 ### 渲染器 
 ### 几何体、 高级几何体
 ### 材质
-### 网格
+### 网格 控制几何体在场景中的位置及显示效果
    属性： position, rotation, scale...
 ### 动画 
     普通动画 （ex: 01-04-materials-light-animation.html）
